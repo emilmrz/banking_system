@@ -1,0 +1,3 @@
+[2025-04-02 17:02:17] EVENT: Uğurlu giriş: test
+[2025-04-02 17:02:30] EVENT: test istifadəçisi 100.0 AZN yatırdı
+[2025-04-02 17:02:52] EVENT: test istifadəçisi 100.0 AZN çıxartdı

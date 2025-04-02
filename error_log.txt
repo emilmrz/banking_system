@@ -1,0 +1,2 @@
+[2025-04-02 17:02:05] ERROR: Qeydiyyat zamanı istifadəçi adı təkrarlandı: test
+[2025-04-02 17:02:36] ERROR: test kifayət qədər balans yoxdur (100.0 < 101.0)
